@@ -1,0 +1,37 @@
+body{
+	font-size: 16px;
+	color: white;
+}
+
+.navbar{
+	background-color: #800000;
+	border-radius: 0;
+	color:white;
+
+}
+
+.container{
+	padding: 0px;
+	margin: 0px;
+}
+
+.navbar-brand h1{
+	color: white;
+	text-shadow: 0px 1px #D3D3D3;
+}
+
+#heading{
+	padding-top: 15px;
+	color: black;
+}
+
+.para{
+	background-color: #E8E8E8;
+	color: black;
+	margin: 15px;
+}
+
+
+
+
+
